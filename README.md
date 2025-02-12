@@ -32,7 +32,7 @@ A passionate technologist driven by the thrill of innovation and problem-solving
      This is the list of my skills and tools I am studying!
 -->
 
-### Main skills
+### My skills
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,aws,azure,bash,bitbucket,bootstrap,c,cs,cpp,cloudflare,css,django,docker,dynamodb,electron,express,firebase,flask,gcp,git,gradle,grafana,graphql,html,java,js,jenkins,jest,jquery,kubernetes,linux,maven,mongodb,mysql,nextjs,nodejs,php,postgres,postman,py,pytorch,r,react,redux,spring,sklearn,tailwind,tensorflow,ts,vscode,vue)](https://skillicons.dev)
 
 <!--
