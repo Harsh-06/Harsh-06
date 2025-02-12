@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8db1eb&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Harsh+Chheda;Software+Developer" alt="Software Developer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8db1eb&width=435&lines=Hello%2C+it's+Harsh+Chheda;Software+Developer" alt="Software Developer"/>
 </a>
 
 <!--
@@ -33,7 +33,7 @@ A passionate technologist driven by the thrill of innovation and problem-solving
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,angular,aws,azure,bash,bitbucket,bootstrap,c,cs,cpp,cloudflare,codepen,css,discord,django,docker,dynamodb,eclipse,electron,express,firebase,flask,gcp,git,gradle,grafana,graphql,html,java,js,jenkins,jest,jquery,kubernetes,linux,materialui,maven,mongodb,mysql,nextjs,nodejs,php,postgres,postman,py,pytorch,r,react,redux,spring,sklearn,tailwind,tensorflow,ts,vscode,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,aws,azure,bash,bitbucket,bootstrap,c,cs,cpp,cloudflare,css,django,docker,dynamodb,electron,express,firebase,flask,gcp,git,gradle,grafana,graphql,html,java,js,jenkins,jest,jquery,kubernetes,linux,maven,mongodb,mysql,nextjs,nodejs,php,postgres,postman,py,pytorch,r,react,redux,spring,sklearn,tailwind,tensorflow,ts,vscode,vue)](https://skillicons.dev)
 
 <!--
      Fast links to my socials!
@@ -54,4 +54,4 @@ A passionate technologist driven by the thrill of innovation and problem-solving
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1mZg786bu7SKwSSnnIDpNJZYweb8TeB84/view?usp=sharing" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8db1eb&height=120&section=footer" alt="footer"/>
