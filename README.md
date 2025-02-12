@@ -33,7 +33,7 @@ A passionate technologist driven by the thrill of innovation and problem-solving
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,angular,aws,azure,bash,bitbucket,bootstrap,c,cs,cpp,cloudflare,codepen,css,discord,django,docker,dynamodb,eclipse,electron,express,firebase,flask,gcp,git,gradle,grafana,graphql,html,java,js,jenkins,jest,jquery,kubernetes,linux,materialui,maven,mongodb,mysql,nextjs,nodejs,php,postgres,postman,py,pytorch,r,react,redux,spring,sklearn,tailwind,tensorflow,ts,vscode,vue)](https://skillicons.dev)
 
 <!--
      Fast links to my socials!
@@ -41,7 +41,7 @@ A passionate technologist driven by the thrill of innovation and problem-solving
 
 ### Connect with me!
 <div>
-    <a href="https://www.linkedin.com/in/daria-stanilevici/">
+    <a href="https://www.linkedin.com/in/harshchheda06/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
 </div>
