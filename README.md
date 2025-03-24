@@ -52,6 +52,6 @@ A passionate technologist driven by the thrill of innovation and problem-solving
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1Cuql8FBLH8677fwKyyX_e0PUq2AwyuSh/view?usp=sharing" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1SPN1hsN-EoPR2pzY6_ROO7MWcdv0W0ew/view?usp=drive_link" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8db1eb&height=120&section=footer" alt="footer"/>
